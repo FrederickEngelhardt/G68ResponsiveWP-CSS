@@ -1,0 +1,11 @@
+.header {
+  background-color: black;
+  height: 300px;
+  width: 100%;
+}
+.main {
+  background: white;
+}
+.footer {
+  background-color: red;
+}
